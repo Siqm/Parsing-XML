@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <contribuinte>
+      <cpf>111.111.111-11</cpf>
+      <rg>11.111.111-1</rg>
+      <nome>Rafael</nome>
+      <data_nasc>11/11/2011</data_nasc>
+      <endereco>
+        <logradouro>Av. Onze do onze</logradouro>
+        <numero>1111</numero>
+        <bairro>Eleven</bairro>
+        <cep>11111-111</cep>
+        <cidade>São Paulo</cidade>
+        <estado>São Paulo</estado>
+      </endereco>
+      <contato>
+        <telefone>(11)1111-1111</telefone>
+        <celular>(11)91111-1111</celular>
+        <email>onzeeleven@onze.com.br</email>
+      </contato>
+      <renda>R$ 1.111,000</renda>
+      <foto>https://robohash.org/xml</foto>
+      <conta>
+        <banco>Santander</banco>
+        <ag>1111-1</ag>
+        <cc>222222-2</cc>
+      </conta>
+    </contribuinte>
+
+    <contribuinte>
+      <cpf>111.111.111-11</cpf>
+      <rg>11.111.111-1</rg>
+      <nome>Maria</nome>
+      <data_nasc>11/11/2011</data_nasc>
+      <endereco>
+        <logradouro>Av. Onze do onze</logradouro>
+        <numero>1111</numero>
+        <bairro>Eleven</bairro>
+        <cep>11111-111</cep>
+        <cidade>São Paulo</cidade>
+        <estado>São Paulo</estado>
+      </endereco>
+      <contato>
+        <telefone>(11)1111-1111</telefone>
+        <celular>(11)91111-1111</celular>
+        <email>onzeeleven@onze.com.br</email>
+      </contato>
+      <renda>R$ 1.111,000</renda>
+      <foto>https://robohash.org/xml</foto>
+      <conta>
+        <banco>Santander</banco>
+        <ag>1111-1</ag>
+        <cc>222222-2</cc>
+      </conta>
+    </contribuinte>
+
+    <contribuinte>
+      <cpf>111.111.111-11</cpf>
+      <rg>11.111.111-1</rg>
+      <nome>Alcides</nome>
+      <data_nasc>11/11/2011</data_nasc>
+      <endereco>
+        <logradouro>Av. Onze do onze</logradouro>
+        <numero>1111</numero>
+        <bairro>Eleven</bairro>
+        <cep>11111-111</cep>
+        <cidade>São Paulo</cidade>
+        <estado>São Paulo</estado>
+      </endereco>
+      <contato>
+        <telefone>(11)1111-1111</telefone>
+        <celular>(11)91111-1111</celular>
+        <email>onzeeleven@onze.com.br</email>
+      </contato>
+      <renda>R$ 1.111,000</renda>
+      <foto>https://robohash.org/xml</foto>
+      <conta>
+        <banco>Santander</banco>
+        <ag>1111-1</ag>
+        <cc>222222-2</cc>
+      </conta>
+    </contribuinte>
+
+    <contribuinte>
+      <cpf>111.111.111-11</cpf>
+      <rg>11.111.111-1</rg>
+      <nome>Pedro</nome>
+      <data_nasc>11/11/2011</data_nasc>
+      <endereco>
+        <logradouro>Av. Onze do onze</logradouro>
+        <numero>1111</numero>
+        <bairro>Eleven</bairro>
+        <cep>11111-111</cep>
+        <cidade>São Paulo</cidade>
+        <estado>São Paulo</estado>
+      </endereco>
+      <contato>
+        <telefone>(11)1111-1111</telefone>
+        <celular>(11)91111-1111</celular>
+        <email>onzeeleven@onze.com.br</email>
+      </contato>
+      <renda>R$ 1.111,000</renda>
+      <foto>https://robohash.org/xml</foto>
+      <conta>
+        <banco>Santander</banco>
+        <ag>1111-1</ag>
+        <cc>222222-2</cc>
+      </conta>
+    </contribuinte>
+
+    <contribuinte>
+      <cpf>111.111.111-11</cpf>
+      <rg>11.111.111-1</rg>
+      <nome>Fulano</nome>
+      <data_nasc>11/11/2011</data_nasc>
+      <endereco>
+        <logradouro>Av. Onze do onze</logradouro>
+        <numero>1111</numero>
+        <bairro>Eleven</bairro>
+        <cep>11111-111</cep>
+        <cidade>São Paulo</cidade>
+        <estado>São Paulo</estado>
+      </endereco>
+      <contato>
+        <telefone>(11)1111-1111</telefone>
+        <celular>(11)91111-1111</celular>
+        <email>onzeeleven@onze.com.br</email>
+      </contato>
+      <renda>R$ 1.111,000</renda>
+      <foto>https://robohash.org/xml</foto>
+      <conta>
+        <banco>Santander</banco>
+        <ag>1111-1</ag>
+        <cc>222222-2</cc>
+      </conta>
+    </contribuinte>
+</receita>
